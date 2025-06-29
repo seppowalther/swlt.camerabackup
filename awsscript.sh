@@ -27,7 +27,7 @@ zip -r "$ZIP_FILE" "$SOURCE_DIR" --exclude ".*"
 
 # Check if the ZIP file was created successfully
 if [ $? -ne 0 ]; then
-    echo "Fehler beim Erstellen der ZIP-Datei. Abbruch."
+    echo "Error creating ZIP file."
     exit 1
 fi
 
