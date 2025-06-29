@@ -2,6 +2,12 @@
 
 This guide outlines how to set up a secure and cost-effective CCTV footage backup system using a Linux VPS and AWS S3 Glacier Deep Archive.
 
+# 🎯 Why This Setup?
+
+Learn why this cloud-based CCTV backup system was built and how it can help you avoid data loss, save on storage costs, and ensure long-term footage retention.
+
+👉 [Visit my website](https://seppo.dev/reolink-and-aws-backup/)
+
 ## ✅ Requirements
 
 - **Cloud VPS running Linux**  
